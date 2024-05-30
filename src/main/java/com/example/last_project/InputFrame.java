@@ -1,3 +1,5 @@
+package com.example.last_project;
+
 import javax.swing.*;
 import java.awt.*;
 
